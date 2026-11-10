@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" width="200" height="120">
+  <rect width="200" height="120" fill="none"/>
+  <!-- Ship simplified -->
+  <g fill="#F5C518">
+    <path d="M40 55 L160 55 L150 75 L50 75 Z"/>
+    <rect x="70" y="35" width="50" height="20" rx="2"/>
+    <rect x="85" y="22" width="12" height="13"/>
+    <circle cx="55" cy="48" r="8" fill="#0a0a0a"/>
+    <circle cx="55" cy="48" r="5" fill="#F5C518"/>
+  </g>
+  <text x="100" y="100" text-anchor="middle" font-family="Arial Black,Arial,sans-serif" font-weight="700" font-size="22" fill="#F5C518">ARRIANA</text>
+</svg>
